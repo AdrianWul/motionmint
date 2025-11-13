@@ -45,19 +45,21 @@ Custom Curves with persistent storage
 
 📥 Installation
 
-Download MotionMint_v1.6.zip
+Download MotionMint.zxp
+
+Easy install
+Drag and drop the ZXP.
+
+Hard install
+
+Change the .zxp to .zip
 Extract to your CEP extensions folder:
 
 Windows: C:\Program Files\Common Files\Adobe\CEP\extensions\
 macOS: /Library/Application Support/Adobe/CEP/extensions/
 
-
 Restart After Effects
 Open from Window > Extensions > MotionMint
-
-Easy install
-Download the ZXP app and drag and drop the ZXP.
-
 
 🎓 Quick Start
 
