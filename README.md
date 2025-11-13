@@ -11,7 +11,6 @@ Automatically detects and displays curve values from selected keyframes, matchin
 
 
 <img width="230" height="351" alt="01" src="https://github.com/user-attachments/assets/cf40201f-7129-4ab4-b19a-9883d66919fc" />
-<img width="450" alt="02" src="https://github.com/user-attachments/assets/f8968b53-ad3b-4c7f-b532-b27acb3b3742" />
 
 🎨 Visual Curve Editor
 Interactive canvas for creating custom curves with real-time preview animations showing both movement and scale behavior.
@@ -20,6 +19,8 @@ Interactive canvas for creating custom curves with real-time preview animations 
 
 📋 Motion Specs Generation
 One-click creation of formatted text layers documenting all animation details: layer name, keyframes, property values, design tokens, timing, and cubic-bezier values.
+
+<img width="450" alt="02" src="https://github.com/user-attachments/assets/f8968b53-ad3b-4c7f-b532-b27acb3b3742" />
 
 🔧 Debug Tools
 Comprehensive debug modal showing detailed ease information, multi-dimensional values, speed calculations, and conversion formulas.
