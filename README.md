@@ -10,12 +10,12 @@ After Effects extension built with CEP / Motion Mint ZXP
 Automatically detects and displays curve values from selected keyframes, matching them against Material 3, Fluent 2, and custom token systems.
 
 
-<img width="230" height="351" alt="01" src="https://github.com/user-attachments/assets/cf40201f-7129-4ab4-b19a-9883d66919fc" />
+<img width="330" alt="01" src="https://github.com/user-attachments/assets/cf40201f-7129-4ab4-b19a-9883d66919fc" />
 
 🎨 Visual Curve Editor
 Interactive canvas for creating custom curves with real-time preview animations showing both movement and scale behavior.
 
-<img width="230" height="391" alt="03" src="https://github.com/user-attachments/assets/53c333da-65e9-4362-a657-b468f4e715e0" />
+<img width="330" alt="03" src="https://github.com/user-attachments/assets/53c333da-65e9-4362-a657-b468f4e715e0" />
 
 📋 Motion Specs Generation
 One-click creation of formatted text layers documenting all animation details: layer name, keyframes, property values, design tokens, timing, and cubic-bezier values.
