@@ -68,6 +68,7 @@ Adrian Wulfrath
 Motion Designer
 
 🌟Special thanks to
+
 Colin Moll
 Chris Lorance
 Andrew Falk
