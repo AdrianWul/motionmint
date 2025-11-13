@@ -1,26 +1,12 @@
 # Motionmint
 After Effects extension built with CEP / Motion Mint ZXP
 
+<img width="230" height="391" alt="03" src="https://github.com/user-attachments/assets/53c333da-65e9-4362-a657-b468f4e715e0" />
+<img width="230" height="170" alt="02" src="https://github.com/user-attachments/assets/f8968b53-ad3b-4c7f-b532-b27acb3b3742" />
+<img width="230" height="351" alt="01" src="https://github.com/user-attachments/assets/cf40201f-7129-4ab4-b19a-9883d66919fc" />
+
 
 ✨ What's New in v1.6
-🎯 Layer Information
-
-Layer names now included in Motion Specs for better documentation
-Keyframe numbers displayed in Current Selection panel and Motion Specs
-
-🐛 Bug Fixes
-
-Fixed arrow symbols (→) compatibility with After Effects text rendering
-Corrected JSON parsing error in curve reading function
-Improved multi-dimensional ease value detection
-
-🎨 UI Improvements
-
-New global Curves accordion to collapse all curve groups at once
-Enhanced warning message styling with rounded corners
-Better visual hierarchy throughout the panel
-
-
 🚀 Key Features
 
 📊 Smart Curve Reading
@@ -42,15 +28,25 @@ Microsoft Fluent 2 (Accelerate/Decelerate Max/Mid/Min)
 Legacy Curves for backwards compatibility
 Custom Curves with persistent storage
 
+🐛 Bug Fixes
 
-📥 Installation
+Fixed arrow symbols (→) compatibility with After Effects text rendering
+Corrected JSON parsing error in curve reading function
+Improved multi-dimensional ease value detection
+
+🎨 UI Improvements
+
+New global Curves accordion to collapse all curve groups at once
+Better visual hierarchy throughout the panel
+
+⚙️ Installation
 
 Download MotionMint.zxp
 
-Easy install
+**Easy install**
 Drag and drop the ZXP.
 
-Hard install
+**Hard install**
 
 Change the .zxp to .zip
 Extract to your CEP extensions folder:
@@ -71,6 +67,18 @@ Apply instantly and see your motion come to life
 Adrian Wulfrath
 Motion Designer
 
-Special thanks to
-
+🌟Special thanks to
 Colin Moll
+Chris Lorance
+Andrew Falk
+Tasha Lutfi
+Michael Yoon
+Harold Gomez
+You Zhang
+Ryan Gagnier
+Brandon Foy
+Rudy Vessup
+Taylor Beeghly
+Carlos Loera
+and Motion Party Team from MSFT
+
