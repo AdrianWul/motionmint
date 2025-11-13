@@ -65,21 +65,10 @@ Select 2 keyframes on any animatable property
 Choose a curve from the built-in library or create your own
 Apply instantly and see your motion come to life
 
-Want documentation? Click "Create Motion Specs" to generate a formatted text layer with all the details.
-
-📚 Documentation
-For detailed documentation, see CHANGELOG.md
-
-🙌 Support
-
-🐛 Report bugs
-💡 Request features
-📧 Contact support
-
-
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 🎨 Created by
 Adrian Wulfrath
 Motion Designer
+
+Special thanks to
+
+Colin Moll
