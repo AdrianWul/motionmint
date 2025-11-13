@@ -69,5 +69,5 @@ Motion Designer
 
 🌟Special thanks to
 
-Colin Moll, Chris Lorance, Andrew Falk, Tasha Lutfi, Michael Yoon, Harold Gomez, You Zhang, Ryan Gagnier, Brandon Foy, Rudy Vessup, Taylor Beeghly, Carlos Loera and Motion Party Team from MSFT. BEST MOTION DESIGNERS!
+Colin Moll, Chris Lorance, Andrew Falk, Tasha Lutfi, Michael Yoon, Harold Gomez, You Zhang, Ryan Gagnier, Brandon Foy, Rudy Vessup, Taylor Beeghly, Carlos Loera and Motion Party Team from MSFT. BEST MOTION DESIGNERS, MANAGERS AND LEADERS!
 
